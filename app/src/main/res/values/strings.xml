@@ -1,0 +1,35 @@
+<resources>
+    <string name="failed_to_insert_row">failed_to_insert_row</string>
+    <string name="app_name">Phone Inventory</string>
+    <string name="successfully_inserted_row_for">Row insertion success</string>
+    <string name="unknown">Unknown</string>
+    <string name="phone_name">Phone Name</string>
+    <string name="product_name">Phone Name</string>
+    <string name="price_of_the_product">Price</string>
+    <string name="avaialable_quantities_of_the_product">Quantity</string>
+    <string name="submit">SUBMIT</string>
+    <string name="editor_activity_title_new_item">New Item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="editor_insert_item_failed">Failed!</string>
+    <string name="editor_insert_item_successful">Success! :)</string>
+    <string name="editor_update_item_failed">Fail</string>
+    <string name="editor_update_item_successful">Success</string>
+    <string name="save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="unsaved_changes_dialog_msg">Discard and quit?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_pet_failed">Error Deleting :(</string>
+    <string name="editor_delete_pet_successful">Delete Successful :)</string>
+    <string name="action_insert_dummy_data">Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="product_unavailable">The Product is not available</string>
+    <string name="prodNotavail">Product not available,Ordering more</string>
+    <string name="proSold">Item Sold</string>
+    <string name="prodFail">The Sale Failed:(</string>
+    <string name="Sell">Sell</string>
+
+</resources>
